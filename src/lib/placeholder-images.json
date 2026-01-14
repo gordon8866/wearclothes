@@ -1,3 +1,94 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Minimalist outfit for men",
+      "imageUrl": "https://images.unsplash.com/photo-1705713394592-44383f54185d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtaW5pbWFsaXN0JTIwbWFsZXxlbnwwfHx8fDE3NjgzNzM1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist male"
+    },
+    {
+      "id": "2",
+      "description": "Sporty outfit for women",
+      "imageUrl": "https://images.unsplash.com/photo-1605538522371-9fc2ce263464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzcG9ydHklMjBmZW1hbGV8ZW58MHx8fHwxNzY4MzczNTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sporty female"
+    },
+    {
+      "id": "3",
+      "description": "Business outfit, neutral",
+      "imageUrl": "https://images.unsplash.com/photo-1518440260307-e6a6bb481f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxidXNpbmVzcyUyMG5ldXRyYWx8ZW58MHx8fHwxNzY4MzczNTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business neutral"
+    },
+    {
+      "id": "4",
+      "description": "Streetwear for men",
+      "imageUrl": "https://images.unsplash.com/photo-1605737640001-3ed7090f6ee5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdHJlZXR3ZWFyJTIwbWFsZXxlbnwwfHx8fDE3NjgzNzM1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "streetwear male"
+    },
+    {
+      "id": "5",
+      "description": "Sweet style for women",
+      "imageUrl": "https://images.unsplash.com/photo-1596573340087-3e3e07e5c661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzd2VldCUyMGZlbWFsZXxlbnwwfHx8fDE3NjgzNzM1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sweet female"
+    },
+    {
+      "id": "6",
+      "description": "Minimalist outfit for women",
+      "imageUrl": "https://images.unsplash.com/photo-1752718071328-6753e9bf4b3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWluaW1hbGlzdCUyMGZlbWFsZXxlbnwwfHx8fDE3NjgzNzM1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist female"
+    },
+    {
+      "id": "7",
+      "description": "Sporty outfit for men",
+      "imageUrl": "https://images.unsplash.com/photo-1611812695617-76998c1898af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcG9ydHklMjBtYWxlfGVufDB8fHx8MTc2ODM3MzUxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sporty male"
+    },
+    {
+      "id": "8",
+      "description": "Business outfit for men",
+      "imageUrl": "https://images.unsplash.com/photo-1642957325322-10f21662f462?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnVzaW5lc3MlMjBtYWxlfGVufDB8fHx8MTc2ODM3MzUxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business male"
+    },
+    {
+      "id": "9",
+      "description": "Streetwear for women",
+      "imageUrl": "https://images.unsplash.com/photo-1660032110763-870ddb1ec652?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHJlZXR3ZWFyJTIwZmVtYWxlfGVufDB8fHx8MTc2ODM3MzUxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "streetwear female"
+    },
+    {
+      "id": "10",
+      "description": "Minimalist outfit, neutral",
+      "imageUrl": "https://images.unsplash.com/photo-1612927014450-29d80eeda8ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWluaW1hbGlzdCUyMG5ldXRyYWx8ZW58MHx8fHwxNzY4MzczNTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist neutral"
+    },
+    {
+      "id": "11",
+      "description": "Warm weather sporty outfit for women",
+      "imageUrl": "https://images.unsplash.com/photo-1677212267960-f7592390c6e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzcG9ydHklMjBmZW1hbGUlMjB3YXJtfGVufDB8fHx8MTc2ODM3MzUxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sporty female warm"
+    },
+    {
+      "id": "12",
+      "description": "Cold weather business outfit for men",
+      "imageUrl": "https://images.unsplash.com/photo-1586821527742-12e7a25382f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxidXNpbmVzcyUyMG1hbGUlMjBjb2xkfGVufDB8fHx8MTc2ODM3MzUxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business male cold"
+    },
+    {
+      "id": "13",
+      "description": "Streetwear style for neutral gender",
+      "imageUrl": "https://images.unsplash.com/photo-1764697907906-e230a3e62873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHJlZXR3ZWFyJTIwbmV1dHJhbHxlbnwwfHx8fDE3NjgzNzM1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "streetwear neutral"
+    },
+    {
+      "id": "14",
+      "description": "Sweet style outfit for a cool day",
+      "imageUrl": "https://images.unsplash.com/photo-1579986736310-7a8f26b67b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzd2VldCUyMGZlbWFsZSUyMGNvb2x8ZW58MHx8fHwxNzY4MzczNTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sweet female cool"
+    },
+    {
+      "id": "15",
+      "description": "Business casual for women",
+      "imageUrl": "https://images.unsplash.com/photo-1581091877018-dac6a371d50f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMGZlbWFsZXxlbnwwfHx8fDE3NjgzNzM1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business female"
+    }
+  ]
 }
