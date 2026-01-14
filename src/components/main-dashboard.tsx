@@ -121,7 +121,7 @@ export default function MainDashboard() {
               <Card className="h-full shadow-xl">
                 <CardHeader>
                   <CardTitle className="text-2xl font-headline">Today's Suggestion</CardTitle>
-                  <p className="text-muted-foreground">{todayForecast ? format(todayForecast.date, 'EEEE, MMMM d') : <Skeleton className="h-5 w-40"/>}</p>
+                  <div className="text-muted-foreground">{todayForecast ? format(todayForecast.date, 'EEEE, MMMM d') : <Skeleton className="h-5 w-40"/>}</div>
                 </CardHeader>
                 <CardContent>
                   {loading && !todayForecast ? (
